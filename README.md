@@ -12,7 +12,7 @@
 [![Prisma](https://img.shields.io/badge/Prisma-5.22-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://supabase.com)
 [![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini%202.5-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
-[![Version](https://img.shields.io/badge/Version-V00.242%20Beta-success?style=for-the-badge)](https://github.com/ACrush14/smash-compendium)
+[![Version](https://img.shields.io/badge/Version-V00.242%20Beta-success?style=for-the-badge)](https://github.com/andersondelimadev/smash-compendium)
 [![Vercel Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 </div>
@@ -149,7 +149,7 @@ Para manter a estabilidade e a integridade do banco de dados em produção, as s
 
 ```bash
 # 1. Clone o repositório para a sua máquina local
-git clone https://github.com/ACrush14/smash-compendium.git
+git clone https://github.com/andersondelimadev/smash-compendium.git
 
 # 2. Acesse o diretório do projeto
 cd smash-compendium
@@ -291,7 +291,7 @@ Abaixo está o registro cronológico de todas as grandes evoluções e funcional
   <p>Desenvolvido com dedicação, rigor técnico e carinho pelos games clássicos por:</p>
   <h3><a href="https://www.andersoncrush.dev">⚡ Anderson Crush</a></h3>
   <p>
-    <a href="https://github.com/ACrush14">GitHub</a> • 
+    <a href="https://github.com/andersondelimadev">GitHub</a> • 
     <a href="https://www.andersoncrush.dev">Portfólio</a>
   </p>
   <p><i>SmashCompendium • Versão V00.242 Beta • 2026</i></p>

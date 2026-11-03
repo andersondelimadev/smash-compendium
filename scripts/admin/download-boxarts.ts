@@ -21,7 +21,7 @@ const WORKERS = 6;
 const HOST_GAP_MS = 1200;
 // Hosts que limitam pedidos (429 com 1,2 s): a Wikimedia pede ritmo baixo e User-Agent identificável.
 const SLOW_HOSTS: Record<string, number> = { "upload.wikimedia.org": 4000 };
-const UA = "SmashCompendium/1.0 (https://github.com/ACrush14/smash-compendium; projeto academico fan-made) node-fetch";
+const UA = "SmashCompendium/1.0 (https://github.com/andersondelimadev/smash-compendium; projeto academico fan-made) node-fetch";
 
 async function fetchBuffer(url: string): Promise<Buffer> {
   for (let attempt = 1; ; attempt++) {

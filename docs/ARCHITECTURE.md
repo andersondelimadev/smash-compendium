@@ -165,4 +165,4 @@ Solução: **split por lutador** com ffmpeg + upload dos clips individuais.
 - **Vercel** — push na branch `master` dispara deploy automático. Variáveis de ambiente novas só valem em um deploy novo (Redeploy)
 - `unoptimized: true` em `next.config.mjs` — evita consumir cota de Image Optimization (5.000/mês)
 - Só um branch (`master`) — sem feature branches por enquanto
-- Repositório: `ACrush14/smash-compendium`
+- Repositório: `andersondelimadev/smash-compendium`
